@@ -1,0 +1,23 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 8,
+  "category_counts": {
+    "欧美电影": 250,
+    "悬疑惊悚": 250,
+    "奇幻科幻": 250,
+    "爱情剧情": 250,
+    "日韩剧集": 250,
+    "华语精选": 250,
+    "动画综艺": 250,
+    "热门推荐": 250
+  },
+  "video_sources_extracted": 20,
+  "cover_rule": "第 N 条影片使用 ((N - 1) % 150) + 1.jpg",
+  "baidu_script_pages": 2012,
+  "logo_name": "欧美最新电影",
+  "site_title": "欧美最新电影-最新影片合集-高清视频在线播放",
+  "html_pages": 2012,
+  "movie_card_count": 14056,
+  "rank_row_count": 2010
+}

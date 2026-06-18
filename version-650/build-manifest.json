@@ -1,0 +1,9 @@
+{
+  "site_title": "免费国产电影-高清电影片库-热门影片在线点播",
+  "site_name": "高清电影片库",
+  "movie_count": 2000,
+  "category_count": 8,
+  "detail_pages": 2000,
+  "video_sources_from_uploaded_js": 20,
+  "image_rule": "Pages reference top-level 1.jpg through 150.jpg in rotation."
+}
